@@ -1,10 +1,15 @@
 import Functions.Math_Function as np
 
-addres1=Functions.Math_Function.add(12,2)
-subres1=Functions.Math_Function.sub(12,2)
-mulres1=Functions.Math_Function.mul(12,2)
-divres1=Functions.Math_Function.div(12,2)
+addres=np.add(12,2)
+subres=np.sub(12,2)
+mulres=np.mul(12,2)
+divres=np.div(12,2)
+print(addres)
+print(subres)
+print(mulres)
+print(divres)
 
-from Functions.Math_Function import *
-addres=add(10,12)
-subres=np.sub(10,1)
+
+# from Functions.Math_Function import *
+# addres=add(10,12)
+# subres=np.sub(10,1)
