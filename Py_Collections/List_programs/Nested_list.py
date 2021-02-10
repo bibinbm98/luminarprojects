@@ -5,6 +5,7 @@ employees=[
     [103, "tim", "bd", 40],
     [104, 'jims', 'developer',20]
 ]
+
 total=0
 for emp in employees:
     total = total + emp[3]

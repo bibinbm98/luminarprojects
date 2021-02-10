@@ -3,5 +3,8 @@ lists=[
     [50,60,70,80],
     [90,100,101,102]
 ]
-for list in lists:
-    lis.append(val)
+new_list=[]
+for list1 in lists:
+    for list2 in list1:
+        new_list.append(list2)
+print(new_list)
