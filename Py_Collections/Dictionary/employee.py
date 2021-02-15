@@ -19,3 +19,7 @@ print(employee)
 
 for k,v in employee.items():
     print(k,':',v)
+
+
+employee[salry]+=25
+print(employee['salry'])
