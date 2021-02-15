@@ -8,3 +8,10 @@ lst=[10,10,20,30,40,40,40]
 print(lst)
 x=set(lst)
 print(x)
+
+st={10,11,12,13}
+st2={10,11,300}
+
+unionset=st.union(st2)
+print(unionset)
+intersectionset=st,intersection
