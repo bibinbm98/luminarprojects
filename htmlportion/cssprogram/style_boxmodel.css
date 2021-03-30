@@ -1,0 +1,22 @@
+#top{
+    border: 2px double black;
+    width: 30%;
+    margin-left: 32%;
+}
+#top h1{
+    position: relative;
+    left: 2%;
+}
+#bottom h1{
+    position: relative;
+    left: 5%;
+}
+#head{
+    color: blueviolet;
+}
+#bottom{
+    border: 2px dotted black;
+    width: 45%;
+    margin-top: 30%;
+    margin-left: 32%;
+}

@@ -1,0 +1,42 @@
+
+.rowtop{
+    background-color: #5e068a;
+    height: 35px;
+}
+.coltop1{
+    margin-left: 25%;
+   margin-top: 8px;
+    
+}
+.coltop{
+    margin-top: 8px;
+    margin-left: 2%;
+}
+.h6{
+    color: white;
+}
+
+.nav-link{
+ color: black;
+}
+.h1l{
+    color: #5e068a99;
+    
+}
+
+.h1t{
+    color: #5e068a;
+   position: absolute;
+   
+    
+}
+.container{
+    margin-top: 10%;
+}
+.qw1{
+    width: 200px;
+    height: 400px;
+}
+.cl{
+    left: 25%;
+}

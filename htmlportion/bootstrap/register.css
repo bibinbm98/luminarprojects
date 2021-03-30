@@ -1,0 +1,52 @@
+.abc1{
+margin-top: 30px;
+margin-bottom: 20px;
+border: 5px solid rgb(240, 23, 23);
+border-top-left-radius: 40px;
+border-bottom-right-radius: 40px;
+
+
+}
+.abc2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(15, 38, 241);
+    }
+.mb-3{
+    margin-top: 25px;
+}
+.row{
+    text-align: center;
+
+}
+
+
+.ab{
+    width: fit-content;
+}
+.head1{
+    color: red;
+    text-decoration: underline;
+    
+}
+.date{
+    position: absolute;
+    left: 65%;
+
+}
+img{
+    margin-top: 20px;
+    
+}
+.form-check-label{
+    text-decoration: solid;
+}
+.head2{
+    color: aliceblue;
+    background-color: red;
+}
+.line{
+    border-bottom: 2px solid blue;
+    position: absolute;
+    ;
+}

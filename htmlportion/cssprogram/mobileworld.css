@@ -1,0 +1,66 @@
+
+body {
+    background-color: azure;
+  }
+
+.headone{
+    color:crimson;
+    text-align: center;
+    text-decoration:underline;
+}
+.d1{
+    border: 2px dotted black;
+    width: 33%;
+    text-align: center;
+    
+    float:left;
+}
+img{
+    width: 50%;
+    height: 200px;
+}
+.d2{
+    border: 2px dotted black;
+    text-align: center;
+    width: 33%;
+    
+    float:left;
+}
+
+.d3{
+    border: 2px dotted black;
+    text-align: center;
+    width: 33%;
+   
+    float: left;
+}
+.d4{
+    border: 2px dotted black;
+    width: 33%;
+    text-align: center;
+    
+    float: left;
+}
+.d5{
+    border: 2px dotted black;
+    width: 33%;
+    text-align: center;
+   
+    float: left;
+}
+.d6{
+    border: 2px dotted black;
+    width: 33%;
+    text-align: center;
+    
+    float: left;
+}
+.bottom{
+    border: 2px dotted black;
+    position:relative;
+    margin-top: 50%;
+    height: 10%;
+    width: 50%;
+    float: left;
+    margin-left: 32%;
+}

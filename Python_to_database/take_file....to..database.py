@@ -10,11 +10,11 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 file = open('demo', 'r')
 for lines in file:
-    data = lines.rstrip("\n")
-    lst = data.split(",")
-    print(lst)
+    data = lines.rstrip("\n").split(",")
+
+
     sql = "insert into fruits values(%s,%s)"
-    record = (lst[0], lst[1])
-    cursor.execute(sql, record)
+
+    cursor.execute(sql,data)
     db.commit()
 db.close()

@@ -1,0 +1,59 @@
+h1{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+.col1{
+    border: 2px red;
+    width: 10%;
+    left: 15%;
+    height: 70%;
+    background-color: red;
+    position: absolute;
+    
+}
+.col2{
+    border: 2px orange;
+    width: 10%;
+    height: 70%;
+    left: 27%;
+    background-color:orange;
+    position: absolute;
+    
+}
+.col3{
+    border: 2px yellow;
+    width: 10%;
+    left: 39%;
+    height: 70%;
+    background-color:yellow;
+    position:absolute
+    
+}
+.col4{
+    border: 2px green;
+    width: 10%;
+    left: 51%;
+    height: 70%;
+    background-color:green;
+    position: absolute;
+    
+}
+.col5{
+    border: 2px blue;
+    width: 10%;
+    left: 63%;
+    height: 70%;
+    background-color: blue;
+    position: absolute;
+    
+}
+.col6{
+    border: 2px violet;
+    width: 10%;
+    left: 75%;
+    height: 70%;
+    background-color:violet;
+    position: absolute;
+   
+}
