@@ -19,19 +19,18 @@
 .nav-link{
  color: black;
 }
-.h1l{
+.h11{
     color: #5e068a99;
+    position: relative;
     
 }
 
-.h1t{
+.h12{
     color: #5e068a;
-   position: absolute;
-   
     
 }
 .container{
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .qw1{
     width: 200px;
@@ -39,4 +38,19 @@
 }
 .cl{
     left: 25%;
+}
+.para{
+    text-align: justify;
+}
+.button-default{
+    font-weight: 600px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    color:white;
+    background-color: #5e068a;
+    font-size: 14px;
+    box-sizing: border-box;
+    padding: 16px 27px;
+    display: inline-block;
+    text-transform: uppercase;
 }
